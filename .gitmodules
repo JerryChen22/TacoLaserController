@@ -1,0 +1,3 @@
+[submodule "SalsaLaserDriver"]
+	path = SalsaLaserDriver
+	url = git@github.com:FSLASER/SalsaLaserDriver.git
